@@ -2,7 +2,7 @@
 'RCET 0265
 'Spring 2021
 'Shuffle the Deck
-'
+'https://github.com/ToriGomez/ShuffleTheDeck.git
 
 Option Strict On
 Option Explicit On
